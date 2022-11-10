@@ -82,9 +82,11 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="conferences-past"></a>
 #### Past
 - SciMLCon 2022 [[page](https://scimlcon.org/2022/)] <br> Online <br> 2022/03/23
+- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2021 Workshop [[page](https://dl-de.github.io/)] <br> Online <br> 2021/12/14
 
 <a name="conferences-future"></a>
 #### Future
+- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2022 Workshop [[page](https://dlde-2022.github.io/)] <br> Online <br> 2022/12/14
 
 <a name="contributions"></a>
 ## Contributions Guidelines
