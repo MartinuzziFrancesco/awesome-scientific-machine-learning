@@ -22,6 +22,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
   - [Papers](#contributions-papers)
   - [Software](#contributions-software)
   - [Videos](#contributions-videos)
+  - [Conferences and Workshops](#contributions-conferences)
 
 <a name="papers"></a>
 ## Papers
