@@ -27,7 +27,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
-- Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] <br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
+- Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] <br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
 
 
 <a name="software"></a>
