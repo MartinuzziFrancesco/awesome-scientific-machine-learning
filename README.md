@@ -23,8 +23,8 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 <a name="papers-neural-des"></a>
 ### Neural Differential Equations
 - Neural Ordinary Differential Equations [[pub](https://proceedings.neurips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)] [[arxiv](https://arxiv.org/abs/1806.07366)] <br> Chen, Ricky TQ, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud <br> _Advances in neural information processing systems 31 (2018)_
+- Universal Differential Equations for Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2001.04385)] <br> Rackauckas, Christopher, Yingbo Ma, Julius Martensen, Collin Warner, Kirill Zubov, Rohit Supekar, Dominic Skinner, Ali Ramadhan, and Alan Edelman <br> _arXiv preprint arXiv:2001.04385 (2020)_
 - Stiff neural ordinary differential equations [[pub](https://aip.scitation.org/doi/full/10.1063/5.0060697)] [[arxiv](https://arxiv.org/abs/2103.15341)] <br> Kim, Suyong, Weiqi Ji, Sili Deng, Yingbo Ma, and Christopher Rackauckas <br> _Chaos: An Interdisciplinary Journal of Nonlinear Science 31, no. 9 (2021): 093122_
-- 
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
@@ -43,7 +43,10 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="software-python"></a>
 ### Python
 - [Pythorch](https://pytorch.org/) based
+  - torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers based on Pytorch.
+  - torchdyn [[code](https://github.com/DiffEqML/torchdyn)] [[docs](https://torchdyn.readthedocs.io/en/latest/)] <br> Library for neural differential equations and implicit models.
 - [Jax](https://jax.readthedocs.io/en/latest/) based
+  - diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers
 - [Tensorflow](https://www.tensorflow.org/) basedx
 - Others
 
@@ -69,7 +72,7 @@ Contributions are very welcomed and encouraged! Please open a pull request with 
 All of the guidelines given here are based on elements and resources already indexed, so if there is any confusion about them please make sure to check the raw version of the README.md before opening a pr.
 <a name="contributions-papers"></a>
 ### Papers
-Papers should have title, author list and pubblication venue separeted by break elements. The author's name are to be fully spelled out and the pubblication venue is to be written in _italic_.  Please provide the link of the source of the pubblication in [pub], and the [arxiv](https://arxiv.org/) abstract as [arxiv] when applicable.
+Papers should have title, author list and pubblication venue separeted by break elements. The author's name are to be fully spelled out (following the Chicago entry on Google scholar) and the pubblication venue is to be written in _italic_.  Please provide the link of the source of the pubblication in [pub], and the [arxiv](https://arxiv.org/) abstract as [arxiv] when applicable. Additionally the code used for the paper can be linked in [code] (this only applies when the code is linked in the paper itself or written by the author(s). For third party implementations look at [Papers with Code](https://paperswithcode.com/)).
 
 <a name="contributions-software"></a>
 ### Software
