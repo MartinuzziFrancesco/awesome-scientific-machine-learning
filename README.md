@@ -11,6 +11,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - [Books](#books)
 - [Videos](#videos)
   - [Channels](#videos-channels)
+  - [Playlists](#videos-playlists)
 - [Contributions Guidelines](#contributions)
   - [Papers](#contributions-papers)
   - [Software](#contributions-software)
@@ -55,6 +56,11 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="videos-channels"></a>
 ### Channels
 - Physics Informed Machine Learning [[profile](https://www.youtube.com/c/PhysicsInformedMachineLearning)]
+- Parallel Computing and Scientific Machine Learning [[profile](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)]
+
+<a name="videos-playlists"></a>
+### Playlists
+- SciMLCon 2022 [[list](https://www.youtube.com/watch?v=eSeY4K4bITI&list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)]
 
 <a name="contributions"></a>
 ## Contributions Guidelines
@@ -71,4 +77,4 @@ Software should have the full name of the library and they have to be indexed un
 
 <a name="contributions-videos"></a>
 ### Videos
-Videos should have the title, speaker and host separated by break elements. After the title please provide the link to the video in [video] and the slides in [slides] if applicable. Entire channels dedicated to SciML can be linked providing the source in [profile].
+Videos should have the title, speaker and host separated by break elements. After the title please provide the link to the video in [video] and the slides in [slides] if applicable. Entire channels dedicated to SciML can be linked providing the source in [profile]. Playlists of SciML videos should be linked as [list]. Please try to minimize the intersection of playlists and channels.
