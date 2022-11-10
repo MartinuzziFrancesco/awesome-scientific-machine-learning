@@ -8,10 +8,16 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - [Software](#software)
   - [Julia](#software-julia)
   - [Python](#software-python)
+    - [Pytorch](#software-python-pytorch)
+    - [Jax](#software-python-jax)
+    - [Tensorflow](#software-python-tensorflow)
 - [Books](#books)
 - [Videos](#videos)
   - [Channels](#videos-channels)
   - [Playlists](#videos-playlists)
+- [Conferences and Workshops](#conferences)
+  - [Past](#conferences-past)
+  - [Future](#conferences-future)
 - [Contributions Guidelines](#contributions)
   - [Papers](#contributions-papers)
   - [Software](#contributions-software)
@@ -42,13 +48,18 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="software-python"></a>
 ### Python
-- [Pythorch](https://pytorch.org/) based
+
+<a name="software-python-pytorch"></a>
+#### [Pythorch](https://pytorch.org/) based
   - torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers based on Pytorch.
   - torchdyn [[code](https://github.com/DiffEqML/torchdyn)] [[docs](https://torchdyn.readthedocs.io/en/latest/)] <br> Library for neural differential equations and implicit models.
-- [Jax](https://jax.readthedocs.io/en/latest/) based
+
+<a name="software-python-jax"></a>
+#### [Jax](https://jax.readthedocs.io/en/latest/) based
   - diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers
-- [Tensorflow](https://www.tensorflow.org/) basedx
-- Others
+
+<a name="software-python-tensorflow"></a>
+#### [Tensorflow](https://www.tensorflow.org/) based
 
 <a name="books"></a>
 ## Books
@@ -65,10 +76,14 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 ### Playlists
 - SciMLCon 2022 [[list](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)]
 
+<a name="conferences"></a>
 ### Conferences and Workshops
 
+<a name="conferences-past"></a>
 #### Past
+- SciMLCon 2022 [[page](https://scimlcon.org/2022/)] <br> Online <br> 2022/03/23
 
+<a name="conferences-future"></a>
 #### Future
 
 <a name="contributions"></a>
@@ -87,3 +102,10 @@ Software should have the full name of the library and they have to be indexed un
 <a name="contributions-videos"></a>
 ### Videos
 Videos should have the title, speaker and host separated by break elements. After the title please provide the link to the video in [video] and the slides in [slides] if applicable. Entire channels dedicated to SciML can be linked providing the source in [profile]. Playlists of SciML videos should be linked as [list]. Please try to minimize the intersection of playlists and channels.
+
+
+<a name="contributions-conferences"></a>
+### Conferences and Workshops
+Events should be indexed in chronological order, with the latest on top. Link to the main page should be done in [page]. Please be mindful of the distinction between past events and future events. Nome of the event, location and date(s) should be separeted by break elements. Dates follow the format YYYY/MM/DD. If the event spanned more days please indicate starting day and ending day separated with the following symbol: -. Example: YYYY/MM/DD-YYYY/MM/DD.
+
+An event can be added in the future section without date or location as long as there is a web page with the description of the event. The missing date or location line should be filled in as TBD. When the date is known please make sure to update the entry.
