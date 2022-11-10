@@ -65,6 +65,12 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 ### Playlists
 - SciMLCon 2022 [[list](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)]
 
+### Conferences and Workshops
+
+#### Past
+
+#### Future
+
 <a name="contributions"></a>
 ## Contributions Guidelines
 Contributions are very welcomed and encouraged! Please open a pull request with the indication of the type of contributions ([PAPER] for papers entries, [SOFTWARE] for software entries and so on), the entry itself and a few lines on why the contribution belongs to Awesome Scientific Machine Learning. Below are listed a few guidelines for each entry type. Please make sure to follow them to ensure a quick merge and an easier experience altogheter. Be aware that the guidelines themselves are subject to change, if you have ideas on how to improve the repo through them make sure to open a pr and tag it [GUIDELINES].
