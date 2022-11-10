@@ -60,7 +60,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="videos-playlists"></a>
 ### Playlists
-- SciMLCon 2022 [[list](https://www.youtube.com/watch?v=eSeY4K4bITI&list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)]
+- SciMLCon 2022 [[list](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)]
 
 <a name="contributions"></a>
 ## Contributions Guidelines
