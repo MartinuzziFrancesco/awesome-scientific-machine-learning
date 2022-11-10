@@ -44,19 +44,19 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 ### Julia
 Julia has an entire organization called [Scientific Machine Learning (Sciml)](https://sciml.ai/) which provides software to do SciML with. The following list is a non-comprehensive list of the packages provided, for a full description please check out their website.
 - DiffEqFlux.jl [[code](https://github.com/SciML/DiffEqFlux.jl)] [[docs](https://docs.sciml.ai/DiffEqFlux/stable/)] <br> Interface to build all variaties of neural differential equations.
-- NeuralPDEs.jl [[code](https://github.com/SciML/NeuralPDE.jl)] [[docs](https://docs.sciml.ai/NeuralPDE/stable/)] <br> Interface to build Physics Informed Neural Networks
+- NeuralPDEs.jl [[code](https://github.com/SciML/NeuralPDE.jl)] [[docs](https://docs.sciml.ai/NeuralPDE/stable/)] <br> Interface to build Physics Informed Neural Networks.
 
 <a name="software-python"></a>
 ### Python
 
 <a name="software-python-pytorch"></a>
 #### [Pythorch](https://pytorch.org/) based
-  - torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers based on Pytorch.
+  - torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers.
   - torchdyn [[code](https://github.com/DiffEqML/torchdyn)] [[docs](https://torchdyn.readthedocs.io/en/latest/)] <br> Library for neural differential equations and implicit models.
 
 <a name="software-python-jax"></a>
 #### [Jax](https://jax.readthedocs.io/en/latest/) based
-  - diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers
+  - diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers.
 
 <a name="software-python-tensorflow"></a>
 #### [Tensorflow](https://www.tensorflow.org/) based
