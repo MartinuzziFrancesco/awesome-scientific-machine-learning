@@ -5,6 +5,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - [Papers](#papers)
   - [Neural Differential Equations](#papers-neural-des)
   - [Physics Informed NNs](#papers-physics-informed-nns)
+  - [Model Discovery](#papers-model-discovery)
 - [Software](#software)
   - [Julia](#software-julia)
   - [Python](#software-python)
