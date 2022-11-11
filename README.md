@@ -55,6 +55,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 <a name="software-julia"></a>
 ### Julia
 Julia has an entire organization called [Scientific Machine Learning (Sciml)](https://sciml.ai/) which provides software to do SciML with. The following list is a non-comprehensive list of the packages provided, for a full description please check out their website.
+- DifferentialEquations.jl [[code](https://github.com/SciML/DifferentialEquations.jl)] <br> Differential equations solvers.
 - DiffEqFlux.jl [[code](https://github.com/SciML/DiffEqFlux.jl)] [[docs](https://docs.sciml.ai/DiffEqFlux/stable/)] <br> Interface to build all variaties of neural differential equations.
 - NeuralPDEs.jl [[code](https://github.com/SciML/NeuralPDE.jl)] [[docs](https://docs.sciml.ai/NeuralPDE/stable/)] <br> Interface to build Physics Informed Neural Networks.
 
