@@ -36,6 +36,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] [[code](https://github.com/maziarraissi/PINNs)]<br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
+- Artificial neural networks for solving ordinary and partial differential equations. [[pub](https://ieeexplore.ieee.org/abstract/document/712178)] [[arxiv](https://arxiv.org/abs/physics/9705023)]<br> Lagaris, Isaac E., Aristidis Likas, and Dimitrios I. Fotiadis <br> _IEEE transactions on neural networks 9, no. 5 (1998): 987-1000._
 
 
 <a name="software"></a>
@@ -85,6 +86,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 #### Past
 - SciMLCon 2022 [[page](https://scimlcon.org/2022/)] <br> Online <br> 2022/03/23
 - The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2021 Workshop [[page](https://dl-de.github.io/)] <br> Online <br> 2021/12/14
+- Scientific Machine Learning - Workshop [[page](https://icerm.brown.edu/events/ht19-1-sml/)] <br> ICERM, Brown University <br> 2019/01/28 - 2019/01/30
 
 <a name="conferences-future"></a>
 #### Future
