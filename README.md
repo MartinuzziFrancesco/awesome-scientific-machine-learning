@@ -43,6 +43,10 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] [[code](https://github.com/maziarraissi/PINNs)]<br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
 - Artificial neural networks for solving ordinary and partial differential equations. [[pub](https://ieeexplore.ieee.org/abstract/document/712178)] [[arxiv](https://arxiv.org/abs/physics/9705023)]<br> Lagaris, Isaac E., Aristidis Likas, and Dimitrios I. Fotiadis <br> _IEEE transactions on neural networks 9, no. 5 (1998): 987-1000._
 
+<a name="papers-model-discovery"></a>
+### Model Discovery
+- Discovering governing equations from data by sparse identification of nonlinear dynamical systems [[pub](https://www.pnas.org/doi/full/10.1073/pnas.1517384113)] [[arxiv](https://arxiv.org/abs/1509.03580)] <br> Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. <br> _Proceedings of the national academy of sciences 113, no. 15 (2016): 3932-3937._
+
 
 <a name="software"></a>
 ## Software
