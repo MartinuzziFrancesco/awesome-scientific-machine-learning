@@ -30,12 +30,12 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 <a name="papers-neural-des"></a>
 ### Neural Differential Equations
 - Neural Ordinary Differential Equations [[pub](https://proceedings.neurips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)] [[arxiv](https://arxiv.org/abs/1806.07366)] <br> Chen, Ricky TQ, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud <br> _Advances in neural information processing systems 31 (2018)_
-- Universal Differential Equations for Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2001.04385)] <br> Rackauckas, Christopher, Yingbo Ma, Julius Martensen, Collin Warner, Kirill Zubov, Rohit Supekar, Dominic Skinner, Ali Ramadhan, and Alan Edelman <br> _arXiv preprint arXiv:2001.04385 (2020)_
-- Stiff neural ordinary differential equations [[pub](https://aip.scitation.org/doi/full/10.1063/5.0060697)] [[arxiv](https://arxiv.org/abs/2103.15341)] <br> Kim, Suyong, Weiqi Ji, Sili Deng, Yingbo Ma, and Christopher Rackauckas <br> _Chaos: An Interdisciplinary Journal of Nonlinear Science 31, no. 9 (2021): 093122_
+- Universal Differential Equations for Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2001.04385)] [[code](https://github.com/ChrisRackauckas/universal_differential_equations)]<br> Rackauckas, Christopher, Yingbo Ma, Julius Martensen, Collin Warner, Kirill Zubov, Rohit Supekar, Dominic Skinner, Ali Ramadhan, and Alan Edelman <br> _arXiv preprint arXiv:2001.04385 (2020)_
+- Stiff neural ordinary differential equations [[pub](https://aip.scitation.org/doi/full/10.1063/5.0060697)] [[arxiv](https://arxiv.org/abs/2103.15341)] [[code](https://github.com/DENG-MIT/StiffNeuralODE)] <br> Kim, Suyong, Weiqi Ji, Sili Deng, Yingbo Ma, and Christopher Rackauckas <br> _Chaos: An Interdisciplinary Journal of Nonlinear Science 31, no. 9 (2021): 093122_
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
-- Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] <br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
+- Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] [[code](https://github.com/maziarraissi/PINNs)]<br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
 
 
 <a name="software"></a>
@@ -70,8 +70,9 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="videos-channels"></a>
 ### Channels
-- Physics Informed Machine Learning [[profile](https://www.youtube.com/c/PhysicsInformedMachineLearning)]
-- Parallel Computing and Scientific Machine Learning [[profile](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)]
+- Physics Informed Machine Learning [[profile](https://www.youtube.com/c/PhysicsInformedMachineLearning)] <br> From the channel description: _This channel hosts videos from workshops at UW on Data-Driven Science and Engineering, and Physics Informed Machine Learning._
+- Parallel Computing and Scientific Machine Learning [[profile](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)] <br> Lecture videos for MIT's 18.337J/6.338J: Parallel Computing and Scientific Machine Learning course of Fall 2020 and Spring 2021.
+- Steve Brunton [[profile](https://www.youtube.com/c/Eigensteve)] <br> Lectures ranging from Linear Algebra basis to SciML theory and applications.
 
 <a name="videos-playlists"></a>
 ### Playlists
