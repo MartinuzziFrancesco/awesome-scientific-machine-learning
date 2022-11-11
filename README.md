@@ -29,9 +29,12 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 
 <a name="papers-neural-des"></a>
 ### Neural Differential Equations
-- Neural Ordinary Differential Equations [[pub](https://proceedings.neurips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)] [[arxiv](https://arxiv.org/abs/1806.07366)] <br> Chen, Ricky TQ, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud <br> _Advances in neural information processing systems 31 (2018)_
+- Neural Ordinary Differential Equations [[pub](https://papers.nips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)] [[arxiv](https://arxiv.org/abs/1806.07366)] <br> Chen, Ricky TQ, Yulia Rubanova, Jesse Bettencourt, and David K. Duvenaud <br> _Advances in neural information processing systems 31 (2018)_
 - Universal Differential Equations for Scientific Machine Learning [[arxiv](https://arxiv.org/abs/2001.04385)] [[code](https://github.com/ChrisRackauckas/universal_differential_equations)]<br> Rackauckas, Christopher, Yingbo Ma, Julius Martensen, Collin Warner, Kirill Zubov, Rohit Supekar, Dominic Skinner, Ali Ramadhan, and Alan Edelman <br> _arXiv preprint arXiv:2001.04385 (2020)_
 - Stiff neural ordinary differential equations [[pub](https://aip.scitation.org/doi/full/10.1063/5.0060697)] [[arxiv](https://arxiv.org/abs/2103.15341)] [[code](https://github.com/DENG-MIT/StiffNeuralODE)] <br> Kim, Suyong, Weiqi Ji, Sili Deng, Yingbo Ma, and Christopher Rackauckas <br> _Chaos: An Interdisciplinary Journal of Nonlinear Science 31, no. 9 (2021): 093122_
+- Hamiltonian neural networks [[pub](https://papers.nips.cc/paper/2019/hash/26cd8ecadce0d4efd6cc8a8725cbd1f8-Abstract.html)] [[arxiv](https://arxiv.org/abs/1906.01563)] [[code](https://github.com/greydanus/hamiltonian-nn)] <br> Greydanus, Samuel, Misko Dzamba, and Jason Yosinski <br> _Advances in neural information processing systems 32 (2019)._
+- Augmented neural odes [[pub](https://papers.nips.cc/paper/2019/hash/21be9a4bd4f81549a9d1d241981cec3c-Abstract.html)] [[arxiv](https://arxiv.org/abs/1904.01681)] [[code](https://github.com/EmilienDupont/augmented-neural-odes)] <br> Dupont, Emilien, Arnaud Doucet, and Yee Whye Teh <br> _Advances in Neural Information Processing Systems 32 (2019)._
+- Fourier neural operator for parametric partial differential equations [[arxiv](https://arxiv.org/abs/2010.08895)] <br> Li, Zongyi, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar <br> _arXiv preprint arXiv:2010.08895 (2020)._
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
