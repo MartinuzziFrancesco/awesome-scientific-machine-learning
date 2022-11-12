@@ -5,13 +5,15 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - [Papers](#papers)
   - [Neural Differential Equations](#papers-neural-des)
   - [Physics Informed NNs](#papers-physics-informed-nns)
+  - [Neural Operators](#papers-neural-operators)
   - [Model Discovery](#papers-model-discovery)
 - [Software](#software)
   - [Julia](#software-julia)
   - [Python](#software-python)
-    - [Pytorch](#software-python-pytorch)
-    - [Jax](#software-python-jax)
-    - [Tensorflow](#software-python-tensorflow)
+    - [Pytorch based](#software-python-pytorch)
+    - [Jax based](#software-python-jax)
+    - [Tensorflow based](#software-python-tensorflow)
+    - [Other](#software-python-other)
 - [Books](#books)
 - [Videos](#videos)
   - [Channels](#videos-channels)
@@ -38,11 +40,24 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - Fourier neural operator for parametric partial differential equations [[arxiv](https://arxiv.org/abs/2010.08895)] <br> Li, Zongyi, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar <br> _arXiv preprint arXiv:2010.08895 (2020)._
 - GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series [[pub](https://proceedings.neurips.cc/paper/2019/hash/455cb2657aaa59e32fad80cb0b65b9dc-Abstract.html)] [[arxiv](https://arxiv.org/abs/1905.12374)] [[code](https://github.com/edebrouwer/gru_ode_bayes)] <br> De Brouwer, Edward, Jaak Simm, Adam Arany, and Yves Moreau. <br> _Advances in neural information processing systems 32 (2019)._
 - Learning long-term dependencies in irregularly-sampled time series [[arxiv](https://arxiv.org/abs/2006.04418)] [[code](https://github.com/mlech26l/ode-lstms)] <br> Lechner, Mathias, and Ramin Hasani <br> _arXiv preprint arXiv:2006.04418 (2020)._
+- Neural controlled differential equations for irregular time series [[pub](https://proceedings.neurips.cc/paper/2020/hash/4a5876b450b45371f6cfe5047ac8cd45-Abstract.html)] [[arxiv](https://arxiv.org/abs/2005.08926)] [[code](https://github.com/patrick-kidger/NeuralCDE)] <br> Kidger, Patrick, James Morrill, James Foster, and Terry Lyons <br> _Advances in Neural Information Processing Systems 33 (2020): 6696-6707._
+- Neural stochastic differential equations: Deep latent gaussian models in the diffusion limit [[arxiv](https://arxiv.org/abs/1905.09883)] <br> Tzen, Belinda, and Maxim Raginsky <br> arXiv preprint arXiv:1905.09883 (2019).
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [[pub](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] [[code](https://github.com/maziarraissi/PINNs)]<br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
 - Artificial neural networks for solving ordinary and partial differential equations. [[pub](https://ieeexplore.ieee.org/abstract/document/712178)] [[arxiv](https://arxiv.org/abs/physics/9705023)]<br> Lagaris, Isaac E., Aristidis Likas, and Dimitrios I. Fotiadis <br> _IEEE transactions on neural networks 9, no. 5 (1998): 987-1000._
+- fPINNs: Fractional physics-informed neural networks [[pub](https://epubs.siam.org/doi/10.1137/18M1229845)] [[arxiv](https://arxiv.org/abs/1811.08967)]  <br> Pang, Guofei, Lu Lu, and George Em Karniadakis <br> _SIAM Journal on Scientific Computing 41, no. 4 (2019): A2603-A2626._
+- Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems [[pub](https://www.sciencedirect.com/science/article/pii/S0021999119305340?via%3Dihub)] [[arxiv](https://arxiv.org/abs/1809.08327v1)] <br> Zhang, Dongkun, Lu Lu, Ling Guo, and George Em Karniadakis <br> _Journal of Computational Physics 397 (2019): 108850._
+- Physics-informed neural networks with hard constraints for inverse design [[pub](https://epubs.siam.org/doi/10.1137/21M1397908)] [[arxiv](https://arxiv.org/abs/2102.04626)] [[code](https://github.com/lululxvi/hpinn)] <br> Lu, Lu, Raphael Pestourie, Wenjie Yao, Zhicheng Wang, Francesc Verdugo, and Steven G. Johnson <br> _SIAM Journal on Scientific Computing 43, no. 6 (2021): B1105-B1132._
+- On the eigenvector bias of fourier feature networks: From regression to solving multi-scale pdes with physics-informed neural networks [[pub](https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759)] [[arxiv](https://arxiv.org/abs/2012.10047)] [[code](https://github.com/PredictiveIntelligenceLab/MultiscalePINNs)] <br> Wang, Sifan, Hanwen Wang, and Paris Perdikaris <br> _Computer Methods in Applied Mechanics and Engineering 384 (2021): 113938._
+
+<a name="papers-neural-operators"></a>
+### Neural Operators
+- Deeponet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators [[arxiv](https://arxiv.org/abs/1910.03193)] <br> Lu, Lu, Pengzhan Jin, and George Em Karniadakis <br> _arXiv preprint arXiv:1910.03193 (2019)._
+- Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators [[pub](https://www.nature.com/articles/s42256-021-00302-5)] [[code](https://github.com/lululxvi/deeponet)] <br> Lu, Lu, Pengzhan Jin, Guofei Pang, Zhongqiang Zhang, and George Em Karniadakis <br> _Nature Machine Intelligence 3, no. 3 (2021): 218-229._
+- Learning the solution operator of parametric partial differential equations with physics-informed DeepONets [[pub](https://www.science.org/doi/full/10.1126/sciadv.abi8605)] [[code](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets)] <br> Wang, Sifan, Hanwen Wang, and Paris Perdikaris <br> _Science advances 7, no. 40 (2021): eabi8605._
+- Fourier neural operator for parametric partial differential equations [[arxiv](https://arxiv.org/abs/2010.08895)] <br> Li, Zongyi, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar <br> _arXiv preprint arXiv:2010.08895 (2020)._
 
 <a name="papers-model-discovery"></a>
 ### Model Discovery
@@ -64,15 +79,20 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="software-python-pytorch"></a>
 #### [Pythorch](https://pytorch.org/) based
-  - torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers.
-  - torchdyn [[code](https://github.com/DiffEqML/torchdyn)] [[docs](https://torchdyn.readthedocs.io/en/latest/)] <br> Library for neural differential equations and implicit models.
+- torchdiffeq [[code](https://github.com/rtqichen/torchdiffeq)] <br> Differential equations solvers.
+- torchdyn [[code](https://github.com/DiffEqML/torchdyn)] [[docs](https://torchdyn.readthedocs.io/en/latest/)] <br> Library for neural differential equations and implicit models.
 
 <a name="software-python-jax"></a>
 #### [Jax](https://jax.readthedocs.io/en/latest/) based
-  - diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers.
+- diffrax [[code](https://github.com/patrick-kidger/diffrax)] [[docs](https://docs.kidger.site/diffrax/)] <br> Differential equations solvers.
 
 <a name="software-python-tensorflow"></a>
 #### [Tensorflow](https://www.tensorflow.org/) based
+
+<a name="software-python-other"></a>
+#### Other
+- pysindy [[code](https://github.com/dynamicslab/pysindy)] [[docs](https://pysindy.readthedocs.io/en/latest/)] <br> Sparse Identification of Nonlinear Dynamical systems (SINDy).
+- DeepXDE [[code](https://github.com/lululxvi/deepxde)] [[docs](https://deepxde.readthedocs.io/en/latest/)] <br> Multi-platform (Pytorch, Jax, Tensorflow) library for scientific machine learning and physics-informed learning.
 
 <a name="books"></a>
 ## Books
