@@ -19,8 +19,8 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
   - [Channels](#videos-channels)
   - [Playlists](#videos-playlists)
 - [Conferences and Workshops](#conferences)
-  - [Past](#conferences-past)
   - [Future](#conferences-future)
+  - [Past](#conferences-past)
 - [Contributions Guidelines](#contributions)
   - [Papers](#contributions-papers)
   - [Software](#contributions-software)
@@ -113,15 +113,15 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="conferences"></a>
 ### Conferences and Workshops
 
+<a name="conferences-future"></a>
+#### Future
+- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2022 Workshop [[page](https://dlde-2022.github.io/)] <br> Online <br> 2022/12/14
+
 <a name="conferences-past"></a>
 #### Past
 - SciMLCon 2022 [[page](https://scimlcon.org/2022/)] <br> Online <br> 2022/03/23
 - The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2021 Workshop [[page](https://dl-de.github.io/)] <br> Online <br> 2021/12/14
 - Scientific Machine Learning - Workshop [[page](https://icerm.brown.edu/events/ht19-1-sml/)] <br> ICERM, Brown University <br> 2019/01/28 - 2019/01/30
-
-<a name="conferences-future"></a>
-#### Future
-- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2022 Workshop [[page](https://dlde-2022.github.io/)] <br> Online <br> 2022/12/14
 
 <a name="contributions"></a>
 ## Contributions Guidelines
