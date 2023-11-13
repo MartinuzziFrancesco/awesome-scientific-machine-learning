@@ -78,7 +78,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 ### Python
 
 <a name="software-python-pytorch"></a>
-#### [Pythorch](https://pytorch.org/) based
+#### [Pytorch](https://pytorch.org/) based
 - torchdiffeq [`code`](https://github.com/rtqichen/torchdiffeq) <br> Differential equations solvers.
 - torchdyn [`code`](https://github.com/DiffEqML/torchdyn) [`docs`](https://torchdyn.readthedocs.io/en/latest/) <br> Library for neural differential equations and implicit models.
 
@@ -105,6 +105,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 - Physics Informed Machine Learning [`profile`](https://www.youtube.com/c/PhysicsInformedMachineLearning) <br> From the channel description: _This channel hosts videos from workshops at UW on Data-Driven Science and Engineering, and Physics Informed Machine Learning._
 - Parallel Computing and Scientific Machine Learning [`profile`](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg) <br> Lecture videos for MIT's 18.337J/6.338J: Parallel Computing and Scientific Machine Learning course of Fall 2020 and Spring 2021.
 - Steve Brunton [`profile`](https://www.youtube.com/c/Eigensteve) <br> Lectures ranging from Linear Algebra basis to SciML theory and applications.
+- Crunch Group [`profile`](www.youtube.com/@CrunchGroup) <br> From the channel description: _This channel puts all the seminars that are weekly held at the CRUNCH Group, Division of Applied Mathematics, Brown University, USA. This group is the home of PINNs, DeepONet and much more!!!_
 
 <a name="videos-playlists"></a>
 ### Playlists
