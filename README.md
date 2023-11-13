@@ -78,7 +78,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 ### Python
 
 <a name="software-python-pytorch"></a>
-#### [Pythorch](https://pytorch.org/) based
+#### [Pytorch](https://pytorch.org/) based
 - torchdiffeq [`code`](https://github.com/rtqichen/torchdiffeq) <br> Differential equations solvers.
 - torchdyn [`code`](https://github.com/DiffEqML/torchdyn) [`docs`](https://torchdyn.readthedocs.io/en/latest/) <br> Library for neural differential equations and implicit models.
 
