@@ -62,6 +62,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 <a name="papers-model-discovery"></a>
 ### Model Discovery
 - Discovering governing equations from data by sparse identification of nonlinear dynamical systems [`pub`](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) [`arxiv`](https://arxiv.org/abs/1509.03580) <br> Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. <br> _Proceedings of the national academy of sciences 113, no. 15 (2016): 3932-3937._
+- Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control [`pub`](https://doi.org/10.1098/rspa.2021.0904) [`arxiv`](https://arxiv.org/abs/2111.10992) <br> Fasel, Urban, J. Nathan Kutz, Bingni W. Brunton, and Steven L. Brunton. <br> _Proceedings of the Royal Society A 478, no. 2260 (2022): 20210904._
 
 
 <a name="software"></a>
@@ -105,11 +106,14 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 - Physics Informed Machine Learning [`profile`](https://www.youtube.com/c/PhysicsInformedMachineLearning) <br> From the channel description: _This channel hosts videos from workshops at UW on Data-Driven Science and Engineering, and Physics Informed Machine Learning._
 - Parallel Computing and Scientific Machine Learning [`profile`](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg) <br> Lecture videos for MIT's 18.337J/6.338J: Parallel Computing and Scientific Machine Learning course of Fall 2020 and Spring 2021.
 - Steve Brunton [`profile`](https://www.youtube.com/c/Eigensteve) <br> Lectures ranging from Linear Algebra basis to SciML theory and applications.
+- Nathan Kutz [`profile`](www.youtube.com/@NathanKutzAMATH) <br> From the channel description: _A YouTube channel for Applied and Computational Mathematics techniques, from full graduate level courses to tutorials on emerging methods._
 - Crunch Group [`profile`](www.youtube.com/@CrunchGroup) <br> From the channel description: _This channel puts all the seminars that are weekly held at the CRUNCH Group, Division of Applied Mathematics, Brown University, USA. This group is the home of PINNs, DeepONet and much more!!!_
 
 <a name="videos-playlists"></a>
 ### Playlists
 - SciMLCon 2022 [`list`](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)
+- Machine Learning for Physics and the Physics of Learning 2019 [`list`](https://youtube.com/playlist?list=PLHyI3Fbmv0SfQfS1rknFsr_UaaWpJ1EKA&si=phmipmwkZLYHxpsT)
+- Data-driven Physical Simulations (DDPS) Seminar Series [`list`](https://youtube.com/playlist?list=PLy9rIbGDXrG2Ly0LPYNuNn1ohQTqO6mmp&si=2OjwWD2vt1XR1V47)
 
 <a name="conferences"></a>
 ### Conferences and Workshops
@@ -131,7 +135,7 @@ Contributions are very welcomed and encouraged! Please open a pull request with 
 All of the guidelines given here are based on elements and resources already indexed, so if there is any confusion about them please make sure to check the raw version of the README.md before opening a pr.
 <a name="contributions-papers"></a>
 ### Papers
-Papers should have title, author list and pubblication venue separeted by break elements. The author's name are to be fully spelled out (following the Chicago entry on Google scholar) and the pubblication venue is to be written in _italic_.  Please provide the link of the source of the pubblication in [pub], and the [arxiv](https://arxiv.org/) abstract as [arxiv] when applicable. Additionally the code used for the paper can be linked in [code] (this only applies when the code is linked in the paper itself or written by the author(s). For third party implementations look at [Papers with Code](https://paperswithcode.com/)).
+Papers should have title, author list and pubblication venue separated by break elements. The author's name are to be fully spelled out (following the Chicago entry on Google scholar) and the pubblication venue is to be written in _italic_.  Please provide the link of the source of the pubblication in [pub], and the [arxiv](https://arxiv.org/) abstract as [arxiv] when applicable. Additionally the code used for the paper can be linked in [code] (this only applies when the code is linked in the paper itself or written by the author(s). For third party implementations look at [Papers with Code](https://paperswithcode.com/)).
 
 <a name="contributions-software"></a>
 ### Software
