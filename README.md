@@ -112,6 +112,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="videos-playlists"></a>
 ### Playlists
 - SciMLCon 2022 [`list`](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)
+- Machine Learning for Physics and the Physics of Learning 2019 [`list`](https://youtube.com/playlist?list=PLHyI3Fbmv0SfQfS1rknFsr_UaaWpJ1EKA&si=phmipmwkZLYHxpsT)
 
 <a name="conferences"></a>
 ### Conferences and Workshops
