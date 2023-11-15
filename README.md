@@ -83,6 +83,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 - torchdiffeq [`code`](https://github.com/rtqichen/torchdiffeq) <br> Differential equations solvers.
 - torchdyn [`code`](https://github.com/DiffEqML/torchdyn) [`docs`](https://torchdyn.readthedocs.io/en/latest/) <br> Library for neural differential equations and implicit models.
 - NeuroMANCER [`code`](https://github.com/pnnl/neuromancer) [`docs`](https://pnnl.github.io/neuromancer/) <br> Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations.
+- IDRLnet [`code`](https://github.com/idrl-lab/idrlnet) [`docs`](https://idrlnet.readthedocs.io/en/latest/) <br> Machine learning library that solves both forward and inverse differential equations via physics-informed neural networks (PINN).
 
 <a name="software-python-jax"></a>
 #### [Jax](https://jax.readthedocs.io/en/latest/) based
