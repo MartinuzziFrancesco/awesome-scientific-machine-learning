@@ -82,6 +82,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 #### [Pytorch](https://pytorch.org/) based
 - torchdiffeq [`code`](https://github.com/rtqichen/torchdiffeq) <br> Differential equations solvers.
 - torchdyn [`code`](https://github.com/DiffEqML/torchdyn) [`docs`](https://torchdyn.readthedocs.io/en/latest/) <br> Library for neural differential equations and implicit models.
+- NeuroMANCER [`code`](https://github.com/pnnl/neuromancer) [`docs`](https://pnnl.github.io/neuromancer/) <br> Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations.
 
 <a name="software-python-jax"></a>
 #### [Jax](https://jax.readthedocs.io/en/latest/) based
@@ -90,7 +91,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="software-python-tensorflow"></a>
 #### [Tensorflow](https://www.tensorflow.org/) based
 - SciANN [`code`](https://github.com/sciann/sciann) [`docs`](https://www.sciann.com/) <br> Neural Networks for Scientific Computations.
-- NeualUQ [`code`](https://github.com/Crunch-UQ4MI/neuraluq) 
+- NeuralUQ [`code`](https://github.com/Crunch-UQ4MI/neuraluq) <br> A comprehensive library for uncertainty quantification in neural differential equations and operators.
 
 
 <a name="software-python-other"></a>
