@@ -90,6 +90,8 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 <a name="software-python-tensorflow"></a>
 #### [Tensorflow](https://www.tensorflow.org/) based
 - SciANN [`code`](https://github.com/sciann/sciann) [`docs`](https://www.sciann.com/) <br> Neural Networks for Scientific Computations.
+- NeualUQ [`code`](https://github.com/Crunch-UQ4MI/neuraluq) 
+
 
 <a name="software-python-other"></a>
 #### Other
