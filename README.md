@@ -102,7 +102,8 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="books"></a>
 ## Books
-
+- Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. 2nd ed. [`pub`](https://doi.org/10.1017/9781009089517) <br> Brunton, Steven L., and J. Nathan Kutz. <br>  _Cambridge: Cambridge University Press, 2022._
+- Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications [`site`](https://book.sciml.ai/) <br> Chris Rackauckas <br>
 <a name="videos"></a>
 ## Videos
 
