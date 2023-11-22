@@ -82,6 +82,8 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 #### [Pytorch](https://pytorch.org/) based
 - torchdiffeq [`code`](https://github.com/rtqichen/torchdiffeq) <br> Differential equations solvers.
 - torchdyn [`code`](https://github.com/DiffEqML/torchdyn) [`docs`](https://torchdyn.readthedocs.io/en/latest/) <br> Library for neural differential equations and implicit models.
+- NeuroMANCER [`code`](https://github.com/pnnl/neuromancer) [`docs`](https://pnnl.github.io/neuromancer/) <br> Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations.
+- IDRLnet [`code`](https://github.com/idrl-lab/idrlnet) [`docs`](https://idrlnet.readthedocs.io/en/latest/) <br> Machine learning library that solves both forward and inverse differential equations via physics-informed neural networks (PINN).
 
 <a name="software-python-jax"></a>
 #### [Jax](https://jax.readthedocs.io/en/latest/) based
@@ -89,6 +91,9 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="software-python-tensorflow"></a>
 #### [Tensorflow](https://www.tensorflow.org/) based
+- SciANN [`code`](https://github.com/sciann/sciann) [`docs`](https://www.sciann.com/) <br> Neural Networks for Scientific Computations.
+- NeuralUQ [`code`](https://github.com/Crunch-UQ4MI/neuraluq) <br> A comprehensive library for uncertainty quantification in neural differential equations and operators.
+
 
 <a name="software-python-other"></a>
 #### Other
@@ -97,7 +102,8 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="books"></a>
 ## Books
-
+- Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. 2nd ed. [`pub`](https://doi.org/10.1017/9781009089517) <br> Brunton, Steven L., and J. Nathan Kutz. <br>  _Cambridge: Cambridge University Press, 2022._
+- Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications [`site`](https://book.sciml.ai/) <br> Chris Rackauckas <br>
 <a name="videos"></a>
 ## Videos
 
