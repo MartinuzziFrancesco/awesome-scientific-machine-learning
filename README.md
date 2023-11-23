@@ -54,7 +54,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 
 <a name="papers-neural-operators"></a>
 ### Neural Operators
-- Deeponet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators [`arxiv`](https://arxiv.org/abs/1910.03193) <br> Lu, Lu, Pengzhan Jin, and George Em Karniadakis <br> _arXiv preprint arXiv:1910.03193 (2019)._
+- DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators [`arxiv`](https://arxiv.org/abs/1910.03193) <br> Lu, Lu, Pengzhan Jin, and George Em Karniadakis <br> _arXiv preprint arXiv:1910.03193 (2019)._
 - Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators [`pub`](https://www.nature.com/articles/s42256-021-00302-5) [`code`](https://github.com/lululxvi/deeponet) <br> Lu, Lu, Pengzhan Jin, Guofei Pang, Zhongqiang Zhang, and George Em Karniadakis <br> _Nature Machine Intelligence 3, no. 3 (2021): 218-229._
 - Learning the solution operator of parametric partial differential equations with physics-informed DeepONets [`pub`](https://www.science.org/doi/full/10.1126/sciadv.abi8605) [`code`](https://github.com/PredictiveIntelligenceLab/Physics-informed-DeepONets) <br> Wang, Sifan, Hanwen Wang, and Paris Perdikaris <br> _Science advances 7, no. 40 (2021): eabi8605._
 - Fourier neural operator for parametric partial differential equations [`arxiv`](https://arxiv.org/abs/2010.08895) <br> Li, Zongyi, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar <br> _arXiv preprint arXiv:2010.08895 (2020)._
@@ -127,10 +127,11 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="conferences-future"></a>
 #### Future
-- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2022 Workshop [`page`](https://dlde-2022.github.io/) <br> Online <br> 2022/12/14
+
 
 <a name="conferences-past"></a>
 #### Past
+- The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2022 Workshop [`page`](https://dlde-2022.github.io/) <br> Online <br> 2022/12/14
 - SciMLCon 2022 [`page`](https://scimlcon.org/2022/) <br> Online <br> 2022/03/23
 - The Symbiosis of Deep Learning and Differential Equations - NeurIPS 2021 Workshop [`page`](https://dl-de.github.io/) <br> Online <br> 2021/12/14
 - Scientific Machine Learning - Workshop [`page`](https://icerm.brown.edu/events/ht19-1-sml/) <br> ICERM, Brown University <br> 2019/01/28 - 2019/01/30
