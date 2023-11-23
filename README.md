@@ -120,6 +120,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 - SciMLCon 2022 [`list`](https://www.youtube.com/playlist?list=PLP8iPy9hna6QglWLQM02jcVjEBjaamzvw)
 - Machine Learning for Physics and the Physics of Learning 2019 [`list`](https://youtube.com/playlist?list=PLHyI3Fbmv0SfQfS1rknFsr_UaaWpJ1EKA&si=phmipmwkZLYHxpsT)
 - Data-driven Physical Simulations (DDPS) Seminar Series [`list`](https://youtube.com/playlist?list=PLy9rIbGDXrG2Ly0LPYNuNn1ohQTqO6mmp&si=2OjwWD2vt1XR1V47)
+- ETH Zürich | Deep Learning in Scientific Computing 2023 [`list`](https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&si=6NjAezoZ69fUurNE)
 
 <a name="conferences"></a>
 ### Conferences and Workshops
