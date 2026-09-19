@@ -97,6 +97,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 
 <a name="software-python-other"></a>
 #### Other
+- AgentFEM [`code`](https://github.com/haoming-luo/agentfem) [`docs`](https://haoming-luo.github.io/agentfem/guide/simulation_to_learning/) <br> FEniCSx-based finite-element campaigns produce traceable scientific datasets for surrogate modeling. Includes ridge and POD baselines, optional PyTorch estimators, held-out validation, and applicability checks.
 - pysindy [`code`](https://github.com/dynamicslab/pysindy) [`docs`](https://pysindy.readthedocs.io/en/latest/) <br> Sparse Identification of Nonlinear Dynamical systems (SINDy).
 - DeepXDE [`code`](https://github.com/lululxvi/deepxde) [`docs`](https://deepxde.readthedocs.io/en/latest/) <br> Multi-platform (Pytorch, Jax, Tensorflow) library for scientific machine learning and physics-informed learning.
 
