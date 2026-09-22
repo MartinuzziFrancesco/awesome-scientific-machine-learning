@@ -61,7 +61,8 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 
 <a name="papers-model-discovery"></a>
 ### Model Discovery
-- Discovering governing equations from data by sparse identification of nonlinear dynamical systems [`pub`](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) [`arxiv`](https://arxiv.org/abs/1509.03580) <br> Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. <br> _Proceedings of the national academy of sciences 113, no. 15 (2016): 3932-3937._
+
+- Mandelbrot Fractal Neural Synthesis: Zero-Storage Procedural Weight Derivation and Non-Linear Decision Boundaries [`doi`](https://doi.org/10.5281/zenodo.22867037) [`code`](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) <br> Dağlı, Volkan, Zerrin Dağlı, and Dağhan Dağlı. <br> _Zenodo CERN Research Archive (2026)._- Discovering governing equations from data by sparse identification of nonlinear dynamical systems [`pub`](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) [`arxiv`](https://arxiv.org/abs/1509.03580) <br> Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. <br> _Proceedings of the national academy of sciences 113, no. 15 (2016): 3932-3937._
 - Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control [`pub`](https://doi.org/10.1098/rspa.2021.0904) [`arxiv`](https://arxiv.org/abs/2111.10992) <br> Fasel, Urban, J. Nathan Kutz, Bingni W. Brunton, and Steven L. Brunton. <br> _Proceedings of the Royal Society A 478, no. 2260 (2022): 20210904._
 
 
