@@ -51,6 +51,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems [`pub`](https://www.sciencedirect.com/science/article/pii/S0021999119305340?via%3Dihub) [`arxiv`](https://arxiv.org/abs/1809.08327v1) <br> Zhang, Dongkun, Lu Lu, Ling Guo, and George Em Karniadakis <br> _Journal of Computational Physics 397 (2019): 108850._
 - Physics-informed neural networks with hard constraints for inverse design [`pub`](https://epubs.siam.org/doi/10.1137/21M1397908) [`arxiv`](https://arxiv.org/abs/2102.04626) [`code`](https://github.com/lululxvi/hpinn) <br> Lu, Lu, Raphael Pestourie, Wenjie Yao, Zhicheng Wang, Francesc Verdugo, and Steven G. Johnson <br> _SIAM Journal on Scientific Computing 43, no. 6 (2021): B1105-B1132._
 - On the eigenvector bias of fourier feature networks: From regression to solving multi-scale pdes with physics-informed neural networks [`pub`](https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759) [`arxiv`](https://arxiv.org/abs/2012.10047) [`code`](https://github.com/PredictiveIntelligenceLab/MultiscalePINNs) <br> Wang, Sifan, Hanwen Wang, and Paris Perdikaris <br> _Computer Methods in Applied Mechanics and Engineering 384 (2021): 113938._
+- Staged Depth Training: A Representation Curriculum for PINNs [`arxiv`](https://arxiv.org/abs/2609.30299) <br> Zhang, Kejia, Youran Sun, and Haizhao Yang. <br> _arXiv preprint arXiv:2609.30299 (2026)._
 
 <a name="papers-neural-operators"></a>
 ### Neural Operators
@@ -65,6 +66,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 - Mandelbrot Fractal Neural Synthesis: Zero-Storage Procedural Weight Derivation and Non-Linear Decision Boundaries [`doi`](https://doi.org/10.5281/zenodo.22867037) [`code`](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) <br> Dağlı, Volkan, Zerrin Dağlı, and Dağhan Dağlı. <br> _Zenodo CERN Research Archive (2026)._
 - Discovering governing equations from data by sparse identification of nonlinear dynamical systems [`pub`](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) [`arxiv`](https://arxiv.org/abs/1509.03580) <br> Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. <br> _Proceedings of the national academy of sciences 113, no. 15 (2016): 3932-3937._
 - Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control [`pub`](https://doi.org/10.1098/rspa.2021.0904) [`arxiv`](https://arxiv.org/abs/2111.10992) <br> Fasel, Urban, J. Nathan Kutz, Bingni W. Brunton, and Steven L. Brunton. <br> _Proceedings of the Royal Society A 478, no. 2260 (2022): 20210904._
+- AutoSR: Automatic Symbolic Regression by Searching Research States [`arxiv`](https://arxiv.org/abs/2608.16876) [`code`](https://github.com/AutoResearch-Factory/AutoSR) <br> Zhang, Kejia, Youran Sun, Xingyu Ren, Chugang Yi, and Haizhao Yang. <br> _arXiv preprint arXiv:2608.16876 (2026)._
 
 
 <a name="software"></a>
