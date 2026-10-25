@@ -14,6 +14,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
     - [Jax based](#software-python-jax)
     - [Tensorflow based](#software-python-tensorflow)
     - [Other](#software-python-other)
+  - [Rust](#software-rust)
 - [Books](#books)
 - [Videos](#videos)
   - [Channels](#videos-channels)
@@ -101,6 +102,10 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 #### Other
 - pysindy [`code`](https://github.com/dynamicslab/pysindy) [`docs`](https://pysindy.readthedocs.io/en/latest/) <br> Sparse Identification of Nonlinear Dynamical systems (SINDy).
 - DeepXDE [`code`](https://github.com/lululxvi/deepxde) [`docs`](https://deepxde.readthedocs.io/en/latest/) <br> Multi-platform (Pytorch, Jax, Tensorflow) library for scientific machine learning and physics-informed learning.
+
+<a name="software-rust"></a>
+### Rust
+- LawSynth [`code`](https://github.com/caelum0x/lawsynth) [`docs`](https://lawsynth.dev/docs) <br> Discovers interpretable governing equations (sparse `dx/dt = ...` systems) from time-series CSV data, in the spirit of SINDy; deterministic, offline, Apache-2.0, with a CLI, Python/TypeScript SDKs and an in-browser WASM demo.
 
 <a name="books"></a>
 ## Books
