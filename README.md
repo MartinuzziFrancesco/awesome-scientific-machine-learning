@@ -45,6 +45,7 @@ A curated list of awesome Scientific Machine Learning (SciML) papers, resources 
 
 <a name="papers-physics-informed-nns"></a>
 ### Physics Informed NNs
+- Neural-Integrated Meshfree (NIM) Method: A differentiable programming-based hybrid solver for computational mechanics [`pub`](https://doi.org/10.1016/j.cma.2024.117024) [`arxiv`](https://arxiv.org/abs/2311.12915) [`code`](https://github.com/IntelligentMechanicsLab/NIM-Tutorial) <br> Du, Honghui, and QiZhi He <br> _Computer Methods in Applied Mechanics and Engineering 427 (2024): 117024._
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations [`pub`](https://www.sciencedirect.com/science/article/pii/S0021999118307125) [`code`](https://github.com/maziarraissi/PINNs) <br> Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis <br> _Journal of Computational physics 378 (2019): 686-707_
 - Artificial neural networks for solving ordinary and partial differential equations. [`pub`](https://ieeexplore.ieee.org/abstract/document/712178) [`arxiv`](https://arxiv.org/abs/physics/9705023) <br> Lagaris, Isaac E., Aristidis Likas, and Dimitrios I. Fotiadis <br> _IEEE transactions on neural networks 9, no. 5 (1998): 987-1000._
 - fPINNs: Fractional physics-informed neural networks [`pub`](https://epubs.siam.org/doi/10.1137/18M1229845) [`arxiv`](https://arxiv.org/abs/1811.08967)  <br> Pang, Guofei, Lu Lu, and George Em Karniadakis <br> _SIAM Journal on Scientific Computing 41, no. 4 (2019): A2603-A2626._
